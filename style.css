@@ -100,8 +100,3 @@ summary svg {
     transform: scale(1);
   }
 }
-
-
-.social_medias {
-  flex-wrap: nowrap!important;
-}
